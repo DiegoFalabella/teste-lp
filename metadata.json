@@ -1,0 +1,7 @@
+{
+  "name": "VibeCanvas - Dynamic Landing Page",
+  "description": "A customizable landing page that allows users to change the background and uses Gemini AI to analyze the image and generate matching brand copy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
